@@ -1,8 +1,11 @@
 # 学習記録
 
 ## 3/20
-- AWSの学習
-https://aws.amazon.com/jp/blogs/news/aws-beginner-home-learning/
+- AWSの学習 選ばれる理由
+https://aws.amazon.com/jp/aws-ten-reasons/
 - progate RubyonRails5 学習レッスンⅠ
 
-
+## 3/21
+- AWSの学習 導入事例
+https://aws.amazon.com/jp/solutions/case-studies/?customer-references-cards.sort-by=item.additionalFields.sortDate&customer-references-cards.sort-order=desc&awsf.customer-references-location=*all&awsf.customer-references-segment=*all&awsf.customer-references-industry=*all&awsf.customer-references-use-case=*all&awsf.customer-references-tech-category=*all
+- progate RubyonRails5 学習レッスンⅡ 1~2章
