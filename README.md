@@ -15,3 +15,7 @@ https://aws.amazon.com/jp/solutions/case-studies/?customer-references-cards.sort
 https://aws.amazon.com/jp/summits/tokyo-osaka-2019-report/
 - bootstrap 復習
 https://getbootstrap.jp/docs/5.0/getting-started/introduction/
+
+## 3/23
+- AWSの学習 サービス別資料
+https://aws.amazon.com/jp/aws-jp-introduction/aws-jp-webinar-service-cut/
