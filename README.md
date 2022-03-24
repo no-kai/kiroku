@@ -1,4 +1,4 @@
-# 学習記録
+# 学習記録メモ
 
 ## 3/20
 - AWSの学習 選ばれる理由
@@ -19,3 +19,9 @@ https://getbootstrap.jp/docs/5.0/getting-started/introduction/
 ## 3/23
 - AWSの学習 サービス別資料
 https://aws.amazon.com/jp/aws-jp-introduction/aws-jp-webinar-service-cut/
+
+## 3/24
+- AWSの学習 サービス別資料
+https://aws.amazon.com/jp/aws-jp-introduction/aws-jp-webinar-service-cut/
+- Rails チュートリアル1章
+https://railstutorial.jp/chapters/beginning?version=6.0
