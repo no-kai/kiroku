@@ -25,3 +25,6 @@ https://aws.amazon.com/jp/aws-jp-introduction/aws-jp-webinar-service-cut/
 https://aws.amazon.com/jp/aws-jp-introduction/aws-jp-webinar-service-cut/
 - Rails チュートリアル1章
 https://railstutorial.jp/chapters/beginning?version=6.0
+
+## 3/25
+- SPI対策勉強
