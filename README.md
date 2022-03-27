@@ -32,3 +32,7 @@ https://railstutorial.jp/chapters/beginning?version=6.0
 ## 3/26
 - SPI対策勉強
 - 面接対策
+
+## 3/2
+- SPI対策勉強
+- 面接対策
