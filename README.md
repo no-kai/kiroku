@@ -37,7 +37,11 @@ https://railstutorial.jp/chapters/beginning?version=6.0
 - SPI対策勉強
 - 面接対策
 
-# 3/28
+## 3/28
 - 面接対策
+- AWS学習　AWS入門
+https://d1.awsstatic.com/webinars/jp/pdf/services/202111_AWS_Black_Belt_AWS_EC2_introduction.pdf
+
+## 3/29
 - AWS学習　AWS入門
 https://d1.awsstatic.com/webinars/jp/pdf/services/202111_AWS_Black_Belt_AWS_EC2_introduction.pdf
