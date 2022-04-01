@@ -53,3 +53,6 @@ https://d1.awsstatic.com/webinars/jp/pdf/services/202111_AWS_Black_Belt_AWS_EC2_
 
 ## 3/31
 - progate RubyonRails5 学習レッスンⅡ 3章
+
+## 4/1
+- progate RubyonRails5 学習レッスンⅡ 4章
