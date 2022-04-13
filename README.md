@@ -82,3 +82,9 @@ https://d1.awsstatic.com/webinars/jp/pdf/services/202111_AWS_Black_Belt_AWS_EC2_
 
 ## 4/9
 - 面接対策
+
+## 4/10
+- progate RubyonRails5 学習レッスンⅡ 12章
+
+## 4/12
+- 面接対策
