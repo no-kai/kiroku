@@ -88,3 +88,6 @@ https://d1.awsstatic.com/webinars/jp/pdf/services/202111_AWS_Black_Belt_AWS_EC2_
 
 ## 4/12
 - 面接対策
+
+## 4/14
+- Java環境構築
