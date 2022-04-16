@@ -94,3 +94,6 @@ https://d1.awsstatic.com/webinars/jp/pdf/services/202111_AWS_Black_Belt_AWS_EC2_
  
 ## 4/15
 - javaファイルの作り方学習
+
+## 4/16
+- java課題　
