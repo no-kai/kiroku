@@ -97,3 +97,6 @@ https://d1.awsstatic.com/webinars/jp/pdf/services/202111_AWS_Black_Belt_AWS_EC2_
 
 ## 4/16
 - java課題　
+
+## 4/18
+- java FizzBuzzプログラム
