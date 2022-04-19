@@ -100,3 +100,7 @@ https://d1.awsstatic.com/webinars/jp/pdf/services/202111_AWS_Black_Belt_AWS_EC2_
 
 ## 4/18
 - java FizzBuzzプログラム
+ 
+## 4/19
+- java FizzBuzzプログラム復習
+- 面接対策
