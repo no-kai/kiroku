@@ -116,3 +116,6 @@ https://d1.awsstatic.com/webinars/jp/pdf/services/202111_AWS_Black_Belt_AWS_EC2_
 
 ## 4/25
 - Linux 学習
+
+## 4/26
+- MOS対策学習
