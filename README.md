@@ -119,3 +119,12 @@ https://d1.awsstatic.com/webinars/jp/pdf/services/202111_AWS_Black_Belt_AWS_EC2_
 
 ## 4/26
 - MOS対策学習
+
+## 4/29
+- LPIC 亀本1日目
+
+## 4/30
+- LPIC 亀本2日目
+
+## 5/1
+- LPIC 亀本3日目
